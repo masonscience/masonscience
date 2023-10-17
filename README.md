@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @masonscience
+- 👋 Hi, I’m @masonscience, an Applied Math concentrator at Brown University.
 - 👀 I’m interested in Earth science, astronomy, and biology. I am most interested in biochemistry and human physiology, especially the nervous and immune systems.
 - 🌱 Some of my favorite books include Lehninger Principles of Biochemistry and Modern Physics by Thornton and Rex.
 
